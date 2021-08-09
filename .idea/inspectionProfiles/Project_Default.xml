@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="snake.Snake.extend" />
+          <option value="hello.make_emphasis" />
+          <option value="hello.make_underlined" />
+          <option value="hello.make_bold" />
+          <option value="main.gyan" />
+          <option value="main.ggyanam869" />
+          <option value="main.gmail" />
+          <option value="main.Gyan02" />
+          <option value="main.flask_alchemy" />
+          <option value="main.flask_sqlalchemy" />
+          <option value="main.session" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Column" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Integer" />
+          <option value="flask_sqlalchemy.SQLAlchemy.String" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Boolean" />
+          <option value="main.posts" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
